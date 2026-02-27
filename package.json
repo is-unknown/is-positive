@@ -1,0 +1,32 @@
+{
+  "name": "@is-(unknown)/is-positive",
+  "version": "1.0.0",
+  "description": "Check if a value is a positive number primitive.",
+  "keywords": [
+    "is-positive",
+    "is-not-positive",
+    "is-unknown",
+    "numbers"
+  ],
+  "homepage": "https://github.com/is-unknown/is-positive#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-positive/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-positive.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@is-(unknown)/is-number": "^1.0.1",
+    "es-logical-and-operator": "^1.0.0",
+    "es-logical-not-operator": "^1.0.0",
+    "is-not-positive": "^1.0.0"
+  }
+}
